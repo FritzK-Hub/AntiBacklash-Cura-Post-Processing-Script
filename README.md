@@ -1,4 +1,4 @@
-# AntiBacklashCura
+# AntiBacklash Cura Post Processing Script
  Cura Post-Processing script to compensate 3D-Printer motor backlash.
 
 ## Installation
